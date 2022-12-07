@@ -1,1 +1,1 @@
-# BlazoerSyte
+# BlazorSyte
